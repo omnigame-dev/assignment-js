@@ -1,9 +1,9 @@
 # Omnigame developer assignment
 
-**Task**
+**Task**  
 Implement a mini game using Canvas/WebGL. Try to create the most *exciting* experience for the user.
 
-**Description**
+**Description**  
 We would like you to create a chance based mini game. No player skill should be involved. We have provided some assets for you to use in this assignment. Choose one of the following game types:
 
 1. Each round the user is presented with randomly generated symbols
@@ -18,10 +18,10 @@ The rules of the game are very simple and applies to both options:
 The game should be initialized with a dataset. For example:
 `{ symbols: ['symbol,'symbol1','symbol9'], prize: 100 }`
 
-**Delivery**
+**Delivery**  
 The assignment should be delivered as a ZIP or a link.
 
-**Notes**
+**Notes**  
 1. You are free to edit images as you see fit
 2. You are free to use any Canvas/WebGL rendering library you want
 3. You are free to add your own assets as you see fit
