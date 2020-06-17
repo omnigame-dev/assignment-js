@@ -22,6 +22,6 @@ The game should be initialized with a dataset. For example:
 The assignment should be delivered as a ZIP or a link.
 
 **Notes**  
-1. You are free to edit images as you see fit
+1. You are free to edit the provided images
 2. You are free to use any Canvas/WebGL rendering library you want
-3. You are free to add your own assets as you see fit
+3. You are free to add your own assets, however some of the provided assets must be used also.
