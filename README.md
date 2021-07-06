@@ -15,7 +15,7 @@ The rules of the game are very simple and applies to both options:
 * Revealing 2 identical symbols results in a win.
 * Revealing 3 identical symbols results in a big win.
 
-The game should be initialized with a dataset. For example:
+Example of how data for a spin could look like:
 `{ symbols: ['symbol,'symbol1','symbol9'], prize: 100 }`
 
 **Delivery**  
